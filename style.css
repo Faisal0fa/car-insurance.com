@@ -1,0 +1,132 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+*{
+    font-family: "Poppins", serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.heading-tag{
+    width: 100%;
+    height: 50px;
+    /* border: 2px solid red; */
+}
+/* .image-logo{
+    width: 25%;
+    margin: auto;
+} */
+
+.center-body-image-01{
+    width: 15%;
+    margin: auto;
+    display: block;
+    margin-top: 20px;
+}
+
+.body-container{
+    width: 100%;
+    height: 900px;
+    /* border: 2px solid red; */
+    margin-top: 40px;
+    background-color: #dcedff;
+}
+.body-link-text a{
+    font-size: 30px;
+    font-weight: 600;
+    color: #000;
+    text-align: center;
+    margin-top: 20px;
+    display: block;
+    font-style: oblique;
+}
+.body-text-p{
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    text-align: center;
+    margin-top: 20px;
+    display: block;
+    /* font-style: oblique; */
+}
+.p-a{
+    font-size: 16px;
+    font-weight: 800;
+    color: #000;
+    /* text-align: center; */
+    /* margin-top: 20px; */
+    display: block;
+    font-style: oblique;
+}
+
+.body-image-car{
+    width: 100%;
+    height: 300px;
+    /* border: 2px solid red; */
+    margin-top:20px;
+}
+
+.center-body-image{
+    width: 50%;
+    margin: auto;
+    display: block;
+}
+
+.input-text{
+    width: 50%;
+    height: 40px;
+    margin: auto;
+    display: block;
+    border: 2px solid #000;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding-left: 10px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    border: 1px solid gray;
+}
+
+.button-text{
+    /* width: 10%; */
+    height: 40px;
+    margin: auto;
+    display: block;
+    border: 2px solid #000;
+    border-radius: 5px;
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #000;
+    background-color: #79baff;
+    border: 1px solid gray;
+}
+.button-text:hover{
+    background-color: #4d8fff;
+    color: #fff;
+}
+
+.footer{
+    background-color: rgba(0, 0, 0, 0.747);
+    width: 100%;
+    height: 400px;
+    margin-top: 70px;
+}
+.footer-text{
+    /* width: 50%; */
+    margin: auto;
+    display: block;
+    /* border: 2px solid red; */
+    text-align: center;
+    /* margin-top: 50px; */
+    padding-top: 30px;
+    color: white;
+}
+.footer-link a{
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+    text-align: center;
+    margin-top: 20px;
+    display: block;
+    /* margin: auto; */
+}
